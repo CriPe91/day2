@@ -12,9 +12,7 @@ public class exswitch {
                 System.out.println("tre");
         }
     }
-public static String lettereSeparate(String word){
 
-}
 
 }
 
