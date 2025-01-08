@@ -13,8 +13,7 @@ public class exswitch {
         }
     }
 public static String lettereSeparate(String word){
-        word i = ;
-        while(i <  )
+
 }
 
 }
